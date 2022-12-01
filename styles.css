@@ -1,0 +1,21 @@
+h1, h6{
+    color:red;
+     font-size: 20px; 
+     background-color:black; 
+     text-align: center;
+     font-family: cursive;
+}
+h2{
+    color:gold;
+    font-size: 20px; 
+    background-color:lightblue; 
+    text-align: right;
+    font-family: Courier; 
+    font-size: 45px
+}
+/*We can add our own style*/
+.my-style{
+    color:purple;
+    text-align:center;
+    background-color: aqua;
+}
