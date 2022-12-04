@@ -1,0 +1,36 @@
+h1, h6{
+    color:darkblue; 
+    font-size: 30px; 
+    background-color: blanchedalmond; 
+    font-family: cursive; 
+    text-align: center;
+}
+h4{
+    color: gold; 
+    font-size:  45px; 
+    font-family: Courier; 
+    background-color: lightblue; 
+    text-align: right;
+
+}
+/*We can create our own style-*/
+.my-style{
+    color: darksalmon;
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+
+}
+#my-unique-id{
+    color: gold;
+    background-color: firebrick;
+
+}
+
+
+
+
+
+
+
+
+

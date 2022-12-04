@@ -40,6 +40,18 @@ h2{
     border: 5px dashed green;
     padding: 10px;
 }
+table {
+    border: 1px solid red;
+    
+}
+th{
+     border: 1px solid red;
+    background-color: darkgray;
+}
+td{
+    border: 1px solid purple;
+    background-color: bisque;
+}
 
 
 
